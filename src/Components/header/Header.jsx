@@ -6,7 +6,7 @@ import HeaderSocial from "./HeaderSocial";
 
 export default function Header() {
   return (
-    <header>
+    <header id="Home">
       <div className="container header__container">
         <h5>Hello I'm</h5>
         <h1 className="Name__header">Gautam Krishna M</h1>
